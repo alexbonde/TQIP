@@ -5,8 +5,8 @@ We have published five Jupyter notebooks:
 * [Data preprocessing](https://github.com/alexbonde/TQIP/blob/main/1_data_preprocessing.ipynb)
 * [Pre-Hospital Model](https://github.com/alexbonde/TQIP/blob/main/2_Pre-Hospital_Model.ipynb)
 * [ED Model](https://github.com/alexbonde/TQIP/blob/main/3_ED_Model.ipynb)
-* [I-Hospital Model](https://github.com/alexbonde/TQIP/blob/main/4_In-Hospital_Model.ipynb)
-* [Model Inference - Use the models on an external dataset](https://github.com/alexbonde/TQIP/blob/main/5_Model_Inferecence.ipynb)
+* [In-Hospital Model](https://github.com/alexbonde/TQIP/blob/main/4_In-Hospital_Model.ipynb)
+* [Use the models on an external dataset](https://github.com/alexbonde/TQIP/blob/main/5_Model_Inferecence.ipynb)
 
 Models and explainers are too big to be downloaded with git clone. 
 Models can be downloaded manually [here](https://github.com/alexbonde/TQIP/tree/main/models)
