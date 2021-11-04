@@ -2,7 +2,7 @@
 Code accompanying the paper "Assessing the Utility of Deep Neural Networks in Dynamic Risk Prediction After Trauma"
 
 We have published five Jupyter notebooks: 
-* [Data preprocessing](https://github.com/alexbonde/TQIP/blob/main/1_data_preprocessing.ipynb)
+* [Data preprocessing](https://github.com/alexbonde/TQIP/blob/main/1_Data_preprocessing.ipynb)
 * [Pre-Hospital Model](https://github.com/alexbonde/TQIP/blob/main/2_Pre-Hospital_Model.ipynb)
 * [ED Model](https://github.com/alexbonde/TQIP/blob/main/3_ED_Model.ipynb)
 * [In-Hospital Model](https://github.com/alexbonde/TQIP/blob/main/4_In-Hospital_Model.ipynb)
