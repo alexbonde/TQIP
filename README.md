@@ -9,10 +9,8 @@ We have published five Jupyter notebooks:
 * [Use the models on an external dataset](https://github.com/alexbonde/TQIP/blob/main/5_Model_Inferecence.ipynb)
 
 Models and explainers are too big to be downloaded with git clone. 
-
-Models can be downloaded manually [here](https://github.com/alexbonde/TQIP/tree/main/models)
-
-Explainers can be downloaded manually [here](https://github.com/alexbonde/TQIP/tree/main/explainers)
+* Models can be downloaded manually [here](https://github.com/alexbonde/TQIP/tree/main/models)
+* Explainers can be downloaded manually [here](https://github.com/alexbonde/TQIP/tree/main/explainers)
 
 ### Objective
 To assess the value of deep neural networks in trauma risk prediction. 
